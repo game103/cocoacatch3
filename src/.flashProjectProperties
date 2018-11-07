@@ -1,0 +1,24 @@
+﻿<projectDescription>
+	<id>1238637846607</id>
+	<name>~cocoacatchIII</name>
+	<asVersion>0</asVersion>
+	<boundTemplate>file:///C|/Users/James/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+	<classTemplate>file:///C|/Users/James/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+	<classPath>.</classPath>
+	<rootURI>C:\Users\James\Documents\cocoacatchIII</rootURI>
+	<flexSDK/>
+	<sources editable="false"/>
+	<libraries editable="false"/>
+	<externalLibraries editable="false"/>
+	<compileList editable="false">
+		<uri label="~cocoacatchIII.fla">file:///C|/Users/James/Documents/cocoacatchIII/~cocoacatchIII.fla</uri>
+	</compileList>
+	<defaultApp>file:///C|/Users/James/Documents/cocoacatchIII/~cocoacatchIII.fla</defaultApp>
+	<recentFiles editable="false">
+		<uri label="MochiAd.as">file:///C|/Users/James/Documents/cocoacatchIII/mochi/as2/MochiAd.as</uri>
+		<uri label="MochiServices.as">file:///C|/Users/James/Documents/cocoacatchIII/mochi/as2/MochiServices.as</uri>
+		<uri label="MochiScores.as">file:///C|/Users/James/Documents/cocoacatchIII/mochi/as2/MochiScores.as</uri>
+		<uri label="MochiDigits.as">file:///C|/Users/James/Documents/cocoacatchIII/mochi/as2/MochiDigits.as</uri>
+	</recentFiles>
+	<locations editable="false"/>
+</projectDescription>
